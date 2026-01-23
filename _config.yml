@@ -23,7 +23,7 @@ repository               : "doncheung10/doncheung10.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pfp.jpg"
+  avatar           : "pfp.jpg"
   name             : "I'm a Master of Mathematical Sciences Student"
   pronouns         : # example: "she/her"  
   bio              : "Check out my repo of my python projects by clicking the GitHub hyperlink below"
