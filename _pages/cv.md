@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to view my CV -> [CV_link](https://docs.google.com/document/d/1f2rvhzbWmI8N_po5Ko1xwaJnMAuwu3YL/edit?usp=sharing&ouid=113497992504089213963&rtpof=true&sd=true)
+Click [here](https://unisydneyedu-my.sharepoint.com/:w:/g/personal/dche2971_uni_sydney_edu_au/IQCzVm1bEP1uQKvlN0it_MgoASzyauhFDFirDs5D_bEBotg?e=g1qdF1) to view my CV
